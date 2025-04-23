@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Abhay"
+    given-names: "Vortex"
+    alias: "OE-LUCIFER"
+title: "Voice Recognition System: Real-time Voice Identity Verification"
+version: 1.0.0
+date-released: 2024-01-01
+url: "https://github.com/OE-LUCIFER/voice-recognition-system"
+repository-code: "https://github.com/OE-LUCIFER/voice-recognition-system"
+license: Alpaca-2.0
+keywords:
+  - voice recognition
+  - machine learning
+  - real-time audio processing
+  - python
+  - voice identification
+type: software
